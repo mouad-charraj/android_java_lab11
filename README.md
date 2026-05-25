@@ -1,5 +1,4 @@
 
-https://github.com/user-attachments/assets/20b469d7-1d79-4fed-b9d1-ea51960d63d4
 
 # Lab 11 - Géolocalisation - Mouad
 
